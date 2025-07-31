@@ -1,3 +1,9 @@
 # expo
 
-making changes if feature branch
+making changes if main branch
+
+making changes in feature
+
+making changes again
+
+
